@@ -212,5 +212,4 @@ Para cada vetor identificado, recomendações práticas:
 
 # Referências / notas sobre o material usado
 
-* Notas e saídas: documento `Santander Cibersegurança 2025.md` (fonte principal para este README). 
 * Trechos de execução Medusa — logs de FTP/HTTP/SMB foram usados como exemplos.
