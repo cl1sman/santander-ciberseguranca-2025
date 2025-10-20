@@ -10,7 +10,7 @@
 * [Topologia de rede](#topologia-de-rede)
 * [Passo a passo dos testes](#passo-a-passo-dos-testes)
 
-  * [1) Reconhecimento — nmap](#1-reconhecimento---nmap)
+  * [1) Reconhecimento - nmap](#1-reconhecimento---nmap)
   * [2) Força bruta em FTP (Medusa)](#2-força-bruta-em-ftp-medusa)
   * [3) Ataque a formulário web (DVWA) com Medusa](#3-ataque-a-formulário-web-dvwa-com-medusa)
   * [4) Enumeração SMB + Password Spraying](#4-enumeração-smb--password-spraying)
@@ -53,7 +53,7 @@ Metasploitable2 — 192.168.56.3
 
 # Passo a passo dos testes
 
-## 1) Reconhecimento — nmap
+## 1) Reconhecimento - nmap
 
 Faça varreduras para identificar serviços abertos e versões:
 
